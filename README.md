@@ -44,6 +44,17 @@ Run the following command, replacing `appname` with your desired application nam
 ```bash
 npm run get-app appname
 ```
+For the sample website (braccoliSite):
+
+```bash
+npm run get-app braccoliSite
+```
+For the sample blog (braccoliTales):
+
+```bash
+npm run get-app braccoliTales
+```
+
 
 This command will copy the sample Next.js app into the `apps` directory.
 
