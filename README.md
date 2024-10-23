@@ -1,5 +1,4 @@
-```markdown
-# Stunning Braccoli 2.0 - TurboRepo Setup
+### Stunning Braccoli 2.0 - TurboRepo Setup
 
 Welcome to the **TurboRepo setup!** This repository contains a sample Next.js application along with shared packages for UI components, Tailwind configuration, TypeScript configuration, ESLint configuration, and utility functions. Additionally, it allows you to clone two more repositories into the `apps` folder with a custom command.
 
@@ -15,7 +14,7 @@ Before you begin, ensure you have the following installed:
 
 ---
 
-## Getting Started
+### Getting Started
 
 ### 1. Clone the Repository
 
