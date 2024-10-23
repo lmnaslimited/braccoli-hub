@@ -1,0 +1,30 @@
+{
+  "name": "Stunning Braccoli",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspace",
+  "postStartCommand": "echo 'Container started. You can run your commands now.' && /bin/sh",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ],
+      "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+      }
+    }
+  },
+  "forwardPorts": [3000, 3001],
+  "portsAttributes": {
+    "3000": {
+      "label": "website"
+    },
+    "3001": {
+      "label": "blog"
+    }
+  },
+  "mounts": [
+    "source=stunning-braccoli-volume,target=/workspace,type=volume"
+  ]
+}
