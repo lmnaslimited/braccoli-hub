@@ -8,9 +8,9 @@ Welcome to the **TurboRepo setup!** This repository contains a sample Next.js ap
 
 Before you begin, ensure you have the following installed:
 
-- ![Node.js Logo](https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png) [Node.js](https://nodejs.org/) (v14 or later)
-- ![npm Logo](https://banner2.cleanpng.com/20180618/opl/aa6n9ogrp.webp) [npm](https://www.npmjs.com/) (comes with Node.js)
-- ![Git Logo](https://banner2.cleanpng.com/20180425/bxe/ave8vhl4c.webp) [Git](https://git-scm.com/)
+- <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Node.js Logo" width="50" height="50"/> [Node.js](https://nodejs.org/) (v14 or later)
+- <img src="https://banner2.cleanpng.com/20180618/opl/aa6n9ogrp.webp" alt="npm Logo" width="50" height="50"/> [npm](https://www.npmjs.com/) (comes with Node.js)
+- <img src="https://banner2.cleanpng.com/20180425/bxe/ave8vhl4c.webp" alt="Git Logo" width="50" height="50"/> [Git](https://git-scm.com/)
 
 ---
 
