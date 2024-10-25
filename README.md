@@ -44,15 +44,15 @@ Run the following command, replacing `appname` with your desired application nam
 ```bash
 npm run get-app appname
 ```
-For the sample website (braccoliSite):
+For the sample website (braccoli-site):
 
 ```bash
-npm run get-app braccoliSite
+npm run get-app braccoli-site
 ```
-For the sample blog (braccoliTales):
+For the sample blog (braccoli-tales):
 
 ```bash
-npm run get-app braccoliTales
+npm run get-app braccoli-tales
 ```
 
 
