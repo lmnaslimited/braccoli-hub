@@ -18,7 +18,7 @@ const appFolder = path.join(__dirname, 'apps', appName);
 function cloneApp(appRepoUrl, appFolder) {
     if (!fs.existsSync(appFolder)) {
         console.log(`\x1b[36mCloning ${appName} repository from ${appRepoUrl}...\x1b[0m`);
-        execSync(`git clone ${appRepoUrl} ${appFolder}`, { stdio: 'inherit' });
+        execSync(`git clone ${appRepoUrl} "${appFolder}"`, { stdio: 'inherit' });
         console.log(`\x1b[32mSuccessfully cloned ${appName} into the apps folder.\x1b[0m`);
     } else {
         console.log(`\x1b[33m${appName} repository already exists, pulling latest changes...\x1b[0m`);
