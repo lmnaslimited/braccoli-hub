@@ -9,10 +9,8 @@
   ],
   "exports": {
     "./styles.css": "./dist/index.css",
-    "./styles/themeDiversity.css":"./src/styles/themeDiversity.css",
-    "./card": "./src/card/card.tsx",
-    "./bannerTag":"./src/bannerTag//bannerTag.tsx",
-    "./navbar":"./src/components/navbar.tsx"
+    "./styles/themeDiversity.css": "./src/styles/themeDiversity.css",
+    "./button": "./src/components/button.tsx"
   },
   "license": "MIT",
   "scripts": {
