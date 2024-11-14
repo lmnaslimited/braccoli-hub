@@ -10,7 +10,18 @@
   "exports": {
     "./styles.css": "./dist/index.css",
     "./styles/themeDiversity.css": "./src/styles/themeDiversity.css",
-    "./button": "./src/components/button.tsx"
+    "./accordion": "./src/components/accordion.tsx",
+    "./avatar": "./src/components/avatar.tsx",
+    "./badge": "./src/components/badge.tsx",
+    "./button": "./src/components/button.tsx",
+    "./card": "./src/components/card.tsx",
+    "./heading": "./src/components/heading.tsx",
+    "./hero": "./src/components/hero.tsx",
+    "./input": "./src/components/input.tsx",
+    "./list": "./src/components/list.tsx",
+    "./paragraph": "./src/components/paragraph.tsx",
+    "./rating": "./src/components/rating.tsx",
+    "./toast": "./src/components/toast.tsx"
   },
   "license": "MIT",
   "scripts": {
